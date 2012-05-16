@@ -17,7 +17,7 @@ void setup() {
   fill(0, 0, 0);
   f = loadFont("Monaco-24.vlw");
   textFont(f, fontSize);
-  reader = createReader("typography.pde");
+  reader = createReader("selfprint.pde");
   int i = 1;
   while(true) {
     try {
