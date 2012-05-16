@@ -1,0 +1,1 @@
+Here are some experiments in Processing with self-printing code. These aren't [quines](http://en.wikipedia.org/wiki/Quine) because they simply load their own .pde files at runtime.  I just wanted some code that would print its own source code out in interesting ways, and maybe pick one to etch onto my Macbook Air. 
