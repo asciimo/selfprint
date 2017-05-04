@@ -3,4 +3,4 @@ Here are some experiments in Processing with self-printing code. These aren't [q
 selfprint
 ---------
 This is my first attempt.  Really just a proof-of-concept.  I definitely needs a lot of adjustment, but it's a start. 
-![Screenshot of selfprint.pde](http://github.com/asciimo/selfprint/raw/master/selfprint_screenshot.png)
+![Screenshot of selfprint.pde](selfprint_screenshot.png?raw=true "Screenshot of selfprint.pde")
